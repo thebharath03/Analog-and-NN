@@ -1,2 +1,2 @@
-Done Hardware 
-Started to build FNN model
+Done Hardware.
+Started to build FNN model.
