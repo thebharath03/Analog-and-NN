@@ -1,2 +1,1 @@
-Done Hardware.
-Started to build FNN model.
+This project is a portable digital skin analyzer using capacitive moisture, TCS3200, DHT11, and UV sensors with ESP32. It measures skin moisture, oil levels, temperature, and UV exposure to provide personalized skincare recommendations via an FNN model and detects acne using CNN. It also tracks environmental trends for smart skincare alerts
